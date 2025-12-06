@@ -37,6 +37,7 @@ function wpt_tester_admin_page_output() {
 	   <p><?php esc_html_e( 'Invalid', 'wp-translations-tester' ); ?></p>
 	   <p><?php esc_html_e( 'Updated', 'wp-translations-tester' ); ?></p>
 	   <p><?php esc_html_e( 'Forms', 'wp-translations-tester' ); ?></p>
+	  <p><?php esc_html_e( 'New string', 'wp-translations-tester' ); ?></p>
    <p><?php esc_html_e(
 					sprintf(
 						/* translators: %d is a number of strings translations */
