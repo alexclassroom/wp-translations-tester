@@ -44,6 +44,7 @@ function wpt_tester_admin_page_output() {
 	  <p><?php esc_html_e( 'SEO Settings', 'wp-translations-tester' ); ?></p>
 	  <p><?php esc_html_e( 'Webhooks', 'wp-translations-tester' ); ?></p>
 	  <p><?php esc_html_e( 'Notifications', 'wp-translations-tester' ); ?></p>
+	<p><?php esc_html_e( 'Issues', 'wp-translations-tester' ); ?></p>
    <p><?php esc_html_e(
 					sprintf(
 						/* translators: %d is a number of strings translations */
